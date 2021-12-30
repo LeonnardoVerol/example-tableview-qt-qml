@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>UI/Main.qml</file>
+        <file>UI/TableViewComponent.qml</file>
+    </qresource>
+</RCC>
